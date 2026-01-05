@@ -11,11 +11,6 @@
 0.0.0.0 indexexchange.com
 0.0.0.0 sovrn.com
 0.0.0.0 triplelift.com
-0.0.0.0 media.net
-0.0.0.0 taboola.com
-0.0.0.0 outbrain.com
-0.0.0.0 mgid.com
-0.0.0.0 revcontent.com
 0.0.0.0 zemanta.com
 0.0.0.0 unityads.com
 0.0.0.0 vungle.com
@@ -48,5 +43,3 @@
 0.0.0.0 ads.vungle.com
 0.0.0.0 ads.chartboost.com
 0.0.0.0 ads.adcolony.com
-
-
