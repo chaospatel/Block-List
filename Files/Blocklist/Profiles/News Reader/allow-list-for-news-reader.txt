@@ -1,0 +1,19 @@
+# Script & Execution
+0.0.0.0 www.googletagmanager.com
+0.0.0.0 www.google-analytics.com
+0.0.0.0 ssl.google-analytics.com
+0.0.0.0 stats.g.doubleclick.net
+#Shared JS / Asset CDNs
+0.0.0.0 cdn.jsdelivr.net
+0.0.0.0 cdnjs.cloudflare.com
+0.0.0.0 unpkg.com
+#Media & Content CDNs
+0.0.0.0 cloudfront.net
+0.0.0.0 akamaized.net
+0.0.0.0 akamai.net
+0.0.0.0 fastly.net
+0.0.0.0 fastlylb.net
+#Consent / CMP Platforms
+0.0.0.0 quantcast.com
+0.0.0.0 onetrust.com
+0.0.0.0 cookielaw.org
